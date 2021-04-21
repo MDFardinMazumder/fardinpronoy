@@ -1,0 +1,1215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-01-18 10:56+0600\n"
+"PO-Revision-Date: 2021-01-18 10:56+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr_e;esc_attr__;"
+"esc_attr;esc_html;wp_kses_post\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:31 inc/template-tags.php:89
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: functions.php:48
+msgid "Footer Menu"
+msgstr ""
+
+#: header.php:23
+msgid "Skip to content"
+msgstr ""
+
+#: inc/comment-template.php:4
+msgid "Your Name"
+msgstr ""
+
+#: inc/comment-template.php:5
+msgid "Your Email"
+msgstr ""
+
+#: inc/comment-template.php:7
+msgid "Your Website"
+msgstr ""
+
+#: inc/comment-template.php:12
+msgid "Message goes here"
+msgstr ""
+
+#: inc/comment-template.php:13
+msgid "Post Comment"
+msgstr ""
+
+#: inc/comment-template.php:15
+msgid "Leave A Comment"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Faith Blog Theme Options"
+msgstr ""
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:91
+msgid "Install "
+msgstr ""
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:91
+msgid "Install and activate"
+msgstr ""
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:95
+msgid "Activate "
+msgstr ""
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:95
+#: inc/getting-started/class-getting-start-plugin-helper.php:115
+#: inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:110
+msgid "Deactivate "
+msgstr ""
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:110
+msgid "Deactivate"
+msgstr ""
+
+#: inc/getting-started/class-getting-start-plugin-helper.php:115
+msgid "Jetpack Portfolio"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:23
+#: inc/getting-started/getting-started.php:24
+msgid "[Faith Blog] Getting Started"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:48
+msgid "Activating "
+msgstr ""
+
+#: inc/getting-started/getting-started.php:113
+#, php-format
+msgid "Getting started with %1$s v%2$s"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:114
+#, php-format
+msgid "You will find everything you need to get started with %1$s below."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:126
+#: inc/getting-started/tabs/plugins-panel.php:10
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:135
+msgid "Getting Started"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:144
+msgid "FAQ's &amp; Support"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:154
+#: inc/getting-started/tabs/useful-plugins-panel.php:10
+msgid "Useful Plugins"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:163
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:11
+msgid "Free vs Pro"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:12
+#: inc/getting-started/tabs/link-panel.php:13
+msgid "View Premium Version"
+msgstr ""
+
+#: inc/getting-started/tabs/free-vs-pro-panel.php:13
+msgid "View Pro"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:12
+msgid "View Our Documentation Link"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:13
+msgid ""
+"New to the WordPress world? Our documentation has step by step procedure to "
+"create a beautiful website."
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:14
+msgid "Visit the Documentation"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:15
+msgid "View Documentation"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:20
+msgid "Support"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:22
+msgid ""
+"We will get back to you within the next 24 hours with an answer although "
+"typically much sooner. Please do not send multiple emails about the same "
+"issue/query or it will reset your priority timer. Queries are always "
+"answered on a first-come-first-serve basis and we will respond to you as "
+"soon as possible so please be patient."
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:23
+msgid "Visit the Support"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:24
+msgid "Contact Support"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:29
+msgid "View Our Faith Blog Demo"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:30
+msgid "Visit the demo to get more ideas about our theme design."
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:31
+#: inc/getting-started/tabs/help-panel.php:36
+msgid "Visit the Demo"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:32
+msgid "Free Version Demo"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:37
+msgid "Pro Version Demo"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:42
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/getting-started/tabs/help-panel.php:43
+msgid "One Click Demo Import."
+msgstr ""
+
+#: inc/getting-started/tabs/link-panel.php:10
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/getting-started/tabs/link-panel.php:11
+#: inc/getting-started/tabs/support-panel.php:14
+msgid ""
+"With the Pro version, you can change the look and feel of your website in "
+"seconds. In just a few clicks, you can change the color and typography of "
+"your website. The premium version lets you have better control over the "
+"theme as it comes with more customization options. Not just that, the theme "
+"also has more sections and layout options as compared to the free version. "
+"The Pro version is multi-language compatible as well."
+msgstr ""
+
+#: inc/getting-started/tabs/link-panel.php:12
+msgid ""
+"You will also get more frequent updates and quicker support with the Pro "
+"version."
+msgstr ""
+
+#: inc/getting-started/tabs/link-panel.php:14
+msgid "Read More About the Pro Theme"
+msgstr ""
+
+#: inc/getting-started/tabs/link-panel.php:19
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the Knowledge Base"
+msgstr ""
+
+#: inc/getting-started/tabs/link-panel.php:20
+msgid ""
+"Need help with using the WordPress as quickly as possible? Visit our well-"
+"organized Knowledge Base!"
+msgstr ""
+
+#: inc/getting-started/tabs/link-panel.php:21
+msgid ""
+"Our Knowledge Base has step-by-step video and text tutorials, from "
+"installing the WordPress to working with themes and more."
+msgstr ""
+
+#: inc/getting-started/tabs/link-panel.php:23
+msgid "Visit the knowledge base"
+msgstr ""
+
+#: inc/getting-started/tabs/plugins-panel.php:12
+msgid ""
+"Below is a list of recommended plugins to install that will help you get the "
+"most out of Blog Starter. Although each plugin is optional"
+msgstr ""
+
+#: inc/getting-started/tabs/plugins-panel.php:33
+msgid "Free Plugins"
+msgstr ""
+
+#: inc/getting-started/tabs/plugins-panel.php:34
+msgid "These Free Plugins might be handy for you."
+msgstr ""
+
+#: inc/getting-started/tabs/plugins-panel.php:44
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: inc/getting-started/tabs/support-panel.php:11
+msgid "What is the difference between Free and Pro?"
+msgstr ""
+
+#: inc/getting-started/tabs/support-panel.php:13
+msgid ""
+"Both Free and Pro version of the themes are well-built. However, the Pro "
+"version comes with many additional features."
+msgstr ""
+
+#: inc/getting-started/tabs/support-panel.php:15
+#, php-format
+msgid ""
+"Overall, you will have more control over your website with the Pro version. "
+"You can find out more about the difference between Free and Pro versions "
+"%1$shere%2$s."
+msgstr ""
+
+#: inc/getting-started/tabs/support-panel.php:20
+msgid "What are the advantages of upgrading to the Premium version?"
+msgstr ""
+
+#: inc/getting-started/tabs/support-panel.php:22
+msgid ""
+"With Premium version, besides the extra features and frequent updates, you "
+"get premium support. If you run into any theme issues, you will get a lot "
+"quicker response compared to the free support."
+msgstr ""
+
+#: inc/getting-started/tabs/support-panel.php:27
+msgid "Upgrading to the Pro version- will I lose my changes?"
+msgstr ""
+
+#: inc/getting-started/tabs/support-panel.php:29
+msgid ""
+"When you upgrade to the Pro theme, your posts, pages, media, categories, and "
+"other data will remain intact-- all your data is saved."
+msgstr ""
+
+#: inc/getting-started/tabs/support-panel.php:30
+msgid ""
+"However, since the Pro version comes with added features and settings, you "
+"will need to set up the additional features in the customizer. This process "
+"is simple and only takes a few minutes."
+msgstr ""
+
+#: inc/getting-started/tabs/support-panel.php:31
+msgid ""
+"The Pro version is built with lots of flexibility in mind for future "
+"upgrades. Therefore, it is slightly different than the free theme but "
+"extremely flexible and easy-to-use."
+msgstr ""
+
+#: inc/getting-started/tabs/support-panel.php:36
+msgid "How do I change the copyright text?"
+msgstr ""
+
+#: inc/getting-started/tabs/support-panel.php:38
+#, php-format
+msgid ""
+"You can change the copyright text going to %1$sAppearance > Customize > "
+"Footer Settings%2$s. However, if you want to hide the author credit text, "
+"please %3$supgrade to the Pro version%4$s."
+msgstr ""
+
+#: inc/getting-started/tabs/support-panel.php:43
+msgid "Why is my theme not working well?"
+msgstr ""
+
+#: inc/getting-started/tabs/support-panel.php:45
+msgid ""
+"If your customizer is not loading properly or you are having issues with the "
+"theme, it might be due to the plugin conflict."
+msgstr ""
+
+#: inc/getting-started/tabs/support-panel.php:46
+#, php-format
+msgid ""
+"To solve the issue, deactivate all the plugins first, except the ones "
+"recommended by the theme. Then, hard reload your website using %1$s\"Ctrl"
+"+Shift+R\"%2$s on Windows. If the issues are fixed, start activating the "
+"plugins one by one, and reload and check your site each time. This will help "
+"you find out the plugin that is causing the problem."
+msgstr ""
+
+#: inc/getting-started/tabs/support-panel.php:47
+#, php-format
+msgid "If this didn't help, please %1$scontact us%2$s."
+msgstr ""
+
+#: inc/getting-started/tabs/support-panel.php:52
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr ""
+
+#: inc/getting-started/tabs/support-panel.php:54
+msgid ""
+"Before you send us a support ticket for any issues, please make sure you "
+"have updated the theme to the latest version. We might have fixed the bug in "
+"the theme update."
+msgstr ""
+
+#: inc/getting-started/tabs/support-panel.php:55
+msgid ""
+"When you submit the support ticket, please try to provide as much details as "
+"possible so that we can solve your problem faster. We recommend you to send "
+"us a screenshot(s) with issues explained and your website's address (URL)."
+msgstr ""
+
+#: inc/getting-started/tabs/support-panel.php:56
+msgid ""
+"Also, you might experience a slower response time during the weekend, so "
+"please bear with us."
+msgstr ""
+
+#: inc/getting-started/tabs/useful-plugins-panel.php:12
+msgid ""
+"Below is a list of useful plugins that will help you get the most out of "
+"Faith Blog."
+msgstr ""
+
+#: inc/getting-started/tabs/useful-plugins-panel.php:17
+msgid "Blog Designer For Elementor"
+msgstr ""
+
+#: inc/getting-started/tabs/useful-plugins-panel.php:18
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: inc/register-widgets.php:13
+msgid "Sidebar"
+msgstr ""
+
+#: inc/register-widgets.php:15 inc/register-widgets.php:29
+#: inc/register-widgets.php:43 inc/register-widgets.php:57
+#: inc/register-widgets.php:71 inc/register-widgets.php:83
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/register-widgets.php:27
+msgid "Footer 1"
+msgstr ""
+
+#: inc/register-widgets.php:41
+msgid "Footer 2"
+msgstr ""
+
+#: inc/register-widgets.php:55
+msgid "Footer 3"
+msgstr ""
+
+#: inc/register-widgets.php:69
+msgid "Footer 4"
+msgstr ""
+
+#: inc/register-widgets.php:81
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: inc/sanitize-functions.php:194
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: inc/template-functions.php:76
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-functions.php:80
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/template-functions.php:85
+msgid " "
+msgstr ""
+
+#: inc/template-functions.php:156
+#, php-format
+msgid "the user has only %1$s %2$s"
+msgstr ""
+
+#: inc/template-functions.php:243
+msgid "Congratulations!"
+msgstr ""
+
+#: inc/template-functions.php:244
+#, php-format
+msgid ""
+"%1$s is now installed and ready to use. Click below to see theme "
+"documentation, plugins to install and other details to get started."
+msgstr ""
+
+#: inc/template-functions.php:245
+msgid "Go to the getting started."
+msgstr ""
+
+#: inc/template-functions.php:247 inc/template-functions.php:261
+msgid "Dismiss"
+msgstr ""
+
+#: inc/template-functions.php:256
+#, php-format
+msgid ""
+"%1$s is now installed and ready to use. if you do like this theme please "
+"leave us a 5-star rating. Huge Thanks in Advance"
+msgstr ""
+
+#: inc/template-functions.php:258
+msgid "Rate This Theme"
+msgstr ""
+
+#: inc/template-functions.php:259
+msgid "Buy Pro Version"
+msgstr ""
+
+#: inc/template-functions.php:296
+msgid "Copyright © 2021 All Rights Reserved. &nbsp; | &nbsp;"
+msgstr ""
+
+#: inc/template-functions.php:302
+msgid "Powered by"
+msgstr ""
+
+#: inc/template-functions.php:302
+msgid "MinistryVoice"
+msgstr ""
+
+#: inc/template-tags.php:61
+msgid "Posted by"
+msgstr ""
+
+#: inc/template-tags.php:88
+msgid "Post a Comment"
+msgstr ""
+
+#: inc/template-tags.php:90
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:92
+msgid "Comments are Closed"
+msgstr ""
+
+#: inc/template-tags.php:119
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:827
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+#: inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/themeoptions/blogpage-option.php:8
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/themeoptions/blogpage-option.php:9
+msgid "Customize Blog Page"
+msgstr ""
+
+#: inc/themeoptions/blogpage-option.php:27
+msgid "Grid Column"
+msgstr ""
+
+#: inc/themeoptions/blogpage-option.php:31
+msgid "4 Colmun"
+msgstr ""
+
+#: inc/themeoptions/blogpage-option.php:32
+#: inc/themeoptions/footer-option.php:46
+msgid "3 Column"
+msgstr ""
+
+#: inc/themeoptions/blogpage-option.php:33
+#: inc/themeoptions/footer-option.php:45
+msgid "2 Column"
+msgstr ""
+
+#: inc/themeoptions/blogpage-option.php:49
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/themeoptions/blogpage-option.php:53 inc/themeoptions/single-page.php:27
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/themeoptions/blogpage-option.php:54 inc/themeoptions/single-page.php:28
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/themeoptions/blogpage-option.php:55 inc/themeoptions/single-page.php:29
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/themeoptions/blogpage-option.php:73
+msgid "Pagination Alignment"
+msgstr ""
+
+#: inc/themeoptions/blogpage-option.php:77
+msgid "Left"
+msgstr ""
+
+#: inc/themeoptions/blogpage-option.php:78
+msgid "Right"
+msgstr ""
+
+#: inc/themeoptions/blogpage-option.php:79
+msgid "center"
+msgstr ""
+
+#: inc/themeoptions/color-option.php:16
+msgid "Primary Color"
+msgstr ""
+
+#: inc/themeoptions/featured-option.php:7
+msgid "Featured Section"
+msgstr ""
+
+#: inc/themeoptions/featured-option.php:23
+msgid "Featured Section On//Off"
+msgstr ""
+
+#: inc/themeoptions/featured-option.php:43
+msgid "Select Posts Categries"
+msgstr ""
+
+#: inc/themeoptions/footer-option.php:7
+msgid "Footer Sections"
+msgstr ""
+
+#: inc/themeoptions/footer-option.php:23
+msgid "Transparent Footer Background"
+msgstr ""
+
+#: inc/themeoptions/footer-option.php:41
+msgid "Footer Column"
+msgstr ""
+
+#: inc/themeoptions/footer-option.php:47
+msgid "4 Column"
+msgstr ""
+
+#: inc/themeoptions/footer-option.php:53
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/themeoptions/footer-option.php:71
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/themeoptions/footer-option.php:86
+#, php-format
+msgid ""
+"Download Demo Data + Footer Copyright Text Editor + Author Widget Plugin: "
+"%1$sClick here.%2$s"
+msgstr ""
+
+#: inc/themeoptions/footer-option.php:88
+msgid ""
+"After Activate this plugin you will be able to Edit/Delete footer copyright "
+"text, import demo content in 1-click and Display Author Widget In Sidebar."
+msgstr ""
+
+#: inc/themeoptions/header-option.php:10
+msgid "Header Section"
+msgstr ""
+
+#: inc/themeoptions/header-option.php:26
+msgid "Transparent Menu Background"
+msgstr ""
+
+#: inc/themeoptions/header-option.php:44
+msgid "Sticky Header On//Off"
+msgstr ""
+
+#: inc/themeoptions/header-option.php:62
+msgid "Logo Section Height"
+msgstr ""
+
+#: inc/themeoptions/single-page.php:7
+msgid "Single Post"
+msgstr ""
+
+#: inc/themeoptions/single-page.php:23
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: inc/themeoptions/single-page.php:45
+msgid "Post Navigation Show"
+msgstr ""
+
+#: inc/themeoptions/social-option.php:7
+msgid "Social Links"
+msgstr ""
+
+#: inc/themeoptions/social-option.php:8
+msgid "Social Links. to disable social Icon keep that fields empty."
+msgstr ""
+
+#: inc/themeoptions/social-option.php:25
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/themeoptions/social-option.php:43
+msgid "twitter Link"
+msgstr ""
+
+#: inc/themeoptions/social-option.php:60
+msgid "pinterest Link"
+msgstr ""
+
+#: inc/themeoptions/social-option.php:79
+msgid "youtube Link"
+msgstr ""
+
+#: inc/themeoptions/social-option.php:96
+msgid "Amazon Link"
+msgstr ""
+
+#: inc/themeoptions/social-option.php:113
+msgid "linkedin Link"
+msgstr ""
+
+#: inc/themeoptions/social-option.php:131
+msgid "Instagram Link"
+msgstr ""
+
+#: inc/themeoptions/social-option.php:148
+msgid "github Link"
+msgstr ""
+
+#: inc/themeoptions/social-option.php:165
+msgid "stumbleupon Link"
+msgstr ""
+
+#: inc/themeoptions/social-option.php:182
+msgid "tumblr Link"
+msgstr ""
+
+#: inc/themeoptions/social-option.php:199
+msgid "WhatsApp Link"
+msgstr ""
+
+#: inc/themeoptions/social-option.php:216
+msgid "weixin Link"
+msgstr ""
+
+#: inc/themeoptions/social-option.php:233
+msgid "snapchat Link"
+msgstr ""
+
+#: inc/themeoptions/social-option.php:250
+msgid "QQ Link"
+msgstr ""
+
+#: inc/themeoptions/social-option.php:267
+msgid "reddit Link"
+msgstr ""
+
+#: inc/themeoptions/typography-option.php:44
+msgid "Typhograpy"
+msgstr ""
+
+#: inc/themeoptions/typography-option.php:60
+msgid "Heading Font Family"
+msgstr ""
+
+#: inc/themeoptions/typography-option.php:77
+msgid "Body Font Family"
+msgstr ""
+
+#: inc/themeoptions/typography-option.php:94
+msgid "Body Font Size"
+msgstr ""
+
+#: inc/themeoptions/typography-option.php:110
+msgid "Body Font Weight"
+msgstr ""
+
+#: inc/themeoptions/typography-option.php:113
+msgid "100"
+msgstr ""
+
+#: inc/themeoptions/typography-option.php:114
+msgid "200"
+msgstr ""
+
+#: inc/themeoptions/typography-option.php:115
+msgid "300"
+msgstr ""
+
+#: inc/themeoptions/typography-option.php:116
+msgid "400"
+msgstr ""
+
+#: inc/themeoptions/typography-option.php:117
+msgid "500"
+msgstr ""
+
+#: inc/themeoptions/typography-option.php:118
+msgid "600"
+msgstr ""
+
+#: inc/themeoptions/typography-option.php:119
+msgid "700"
+msgstr ""
+
+#: inc/themeoptions/typography-option.php:120
+msgid "800"
+msgstr ""
+
+#: inc/themeoptions/typography-option.php:121
+msgid "900"
+msgstr ""
+
+#: inc/themeoptions/typography-option.php:122
+msgid "1100"
+msgstr ""
+
+#: inc/themeoptions/typography-option.php:138
+msgid "Body Line Height"
+msgstr ""
+
+#: inc/upgradetopro/class-customize.php:16
+msgid "Demo & Documentation"
+msgstr ""
+
+#: inc/upgradetopro/class-customize.php:29
+#, php-format
+msgid "Faith Blog Free Demo : %1$sClick here.%2$s"
+msgstr ""
+
+#: inc/upgradetopro/class-customize.php:31
+#, php-format
+msgid "Faith Blog Pro Demo: %1$sClick here.%2$s"
+msgstr ""
+
+#: inc/upgradetopro/class-customize.php:33
+#, php-format
+msgid ""
+"Download Demo Content + Footer Copryright Removal Plugin: %1$sClick here.%2$s"
+msgstr ""
+
+#: inc/upgradetopro/class-customize.php:36
+#, php-format
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: inc/upgradetopro/class-customize.php:38
+#, php-format
+msgid "View Pro Version: %1$sView Details.%2$s"
+msgstr ""
+
+#: inc/upgradetopro/class-customize.php:128
+msgid "Faith Blog - Upgrade To Pro"
+msgstr ""
+
+#: inc/widgets/recent-post.php:12
+msgid "[Faith Based Blog] Latest Posts"
+msgstr ""
+
+#: inc/widgets/recent-post.php:14
+msgid "[Faith Based Blog] Latest Post Widgets"
+msgstr ""
+
+#: inc/widgets/recent-post.php:61
+msgid "Recent Post"
+msgstr ""
+
+#: inc/widgets/recent-post.php:65
+msgid "Title :"
+msgstr ""
+
+#: inc/widgets/recent-post.php:69
+msgid "Post Count:"
+msgstr ""
+
+#: search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search Here....."
+msgstr ""
+
+#: single.php:50
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:54
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/content/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content/content-none.php:29
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content/content-none.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content/content-page.php:22
+#: template-parts/content/content-single.php:30
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content/content-page.php:35
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
