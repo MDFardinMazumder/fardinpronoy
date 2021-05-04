@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RebeccaLite\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-21 14:25+0000\n"
+"POT-Creation-Date: 2021-05-04 08:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -35,7 +35,15 @@ msgid "<h4 class=\"author-name\">%s</h4>"
 msgstr ""
 
 #. Description of the theme
-msgid "A Responsive WordPress Blog Theme"
+msgid ""
+"A Responsive WordPress Blog Theme. Rebecca Lite is a feminine blog theme for "
+"professional bloggers. The theme is mobile friendly, SEO optimized, Schema "
+"friendly, and loads faster to help you rank your website higher on search "
+"engines. If you want to share your expert fashion tips, travel expertise, "
+"your favorite food recipes, or create a lifestyle, beauty and makeup, "
+"coaching, or any other niche blog, Rebecca Lite is for you. Check demo at "
+"https://rebeccalite.az-theme.net/, and get support at https://az-theme."
+"net/contact/"
 msgstr ""
 
 #: core/customizer.php:81
@@ -50,16 +58,24 @@ msgstr ""
 msgid "AZ-Theme"
 msgstr ""
 
+#: core/customizer.php:165
+msgid "Background Image"
+msgstr ""
+
 #: functions.php:163
 msgid "Bloglovin"
 msgstr ""
 
-#: core/customizer.php:191
+#: core/customizer.php:252
 msgid "Bloglovin URL"
 msgstr ""
 
 #: core/customizer.php:103
 msgid "Boder Color"
+msgstr ""
+
+#: core/customizer.php:140
+msgid "Box"
 msgstr ""
 
 #: comments.php:16
@@ -86,7 +102,7 @@ msgstr ""
 msgid "Contact Form 7"
 msgstr ""
 
-#: core/customizer.php:256
+#: core/customizer.php:317
 msgid "Copyright Text"
 msgstr ""
 
@@ -94,7 +110,7 @@ msgstr ""
 msgid "Dribbble"
 msgstr ""
 
-#: core/customizer.php:202
+#: core/customizer.php:263
 msgid "Dribbble URL"
 msgstr ""
 
@@ -102,23 +118,23 @@ msgstr ""
 msgid "Facebook"
 msgstr ""
 
-#: core/customizer.php:127
+#: core/customizer.php:188
 msgid "Facebook URL"
 msgstr ""
 
-#: core/customizer.php:268
+#: core/customizer.php:329
 msgid "Footer Background Color"
 msgstr ""
 
-#: core/customizer.php:290
+#: core/customizer.php:351
 msgid "Footer Icon Color"
 msgstr ""
 
-#: core/customizer.php:244
+#: core/customizer.php:305
 msgid "Footer Settings"
 msgstr ""
 
-#: core/customizer.php:279
+#: core/customizer.php:340
 msgid "Footer Text Color"
 msgstr ""
 
@@ -138,7 +154,7 @@ msgstr ""
 msgid "Instagram Footer"
 msgstr ""
 
-#: core/customizer.php:147
+#: core/customizer.php:208
 msgid "Instagram URL"
 msgstr ""
 
@@ -157,11 +173,15 @@ msgstr ""
 msgid "Leave a Reply"
 msgstr ""
 
+#: core/customizer.php:160
+msgid "Link(URL)"
+msgstr ""
+
 #: functions.php:169
 msgid "LinkedIn"
 msgstr ""
 
-#: core/customizer.php:235
+#: core/customizer.php:296
 msgid "LinkedIn URL"
 msgstr ""
 
@@ -191,12 +211,20 @@ msgstr ""
 msgid "Pinterest"
 msgstr ""
 
-#: core/customizer.php:158
+#: core/customizer.php:219
 msgid "Pinterest URL"
 msgstr ""
 
 #: core/customizer.php:59
 msgid "Primary Color"
+msgstr ""
+
+#: core/customizer.php:135
+msgid "Promo Box"
+msgstr ""
+
+#: core/customizer.php:113
+msgid "Promo Boxes"
 msgstr ""
 
 #: template-parts/content-none.php:6
@@ -217,6 +245,14 @@ msgstr ""
 msgid "Search results for"
 msgstr ""
 
+#: core/customizer.php:118
+msgid "Settings"
+msgstr ""
+
+#: core/customizer.php:128
+msgid "Show ?"
+msgstr ""
+
 #: functions.php:99
 msgid "Sidebar"
 msgstr ""
@@ -229,7 +265,7 @@ msgstr ""
 msgid "Smash Balloon Social Photo Feed"
 msgstr ""
 
-#: core/customizer.php:112
+#: core/customizer.php:173
 msgid "Social Media Settings"
 msgstr ""
 
@@ -243,7 +279,7 @@ msgstr ""
 msgid "Soundcloud"
 msgstr ""
 
-#: core/customizer.php:213
+#: core/customizer.php:274
 msgid "SoundCloud URL"
 msgstr ""
 
@@ -255,11 +291,15 @@ msgstr ""
 msgid "Text Color"
 msgstr ""
 
+#: core/customizer.php:155
+msgid "Title"
+msgstr ""
+
 #: functions.php:164
 msgid "Tumblr"
 msgstr ""
 
-#: core/customizer.php:180
+#: core/customizer.php:241
 msgid "Tumblr URL"
 msgstr ""
 
@@ -267,7 +307,7 @@ msgstr ""
 msgid "Twitter"
 msgstr ""
 
-#: core/customizer.php:136
+#: core/customizer.php:197
 msgid "Twitter URL"
 msgstr ""
 
@@ -281,7 +321,7 @@ msgstr ""
 msgid "Vimeo"
 msgstr ""
 
-#: core/customizer.php:224
+#: core/customizer.php:285
 msgid "Vimeo URL"
 msgstr ""
 
@@ -293,7 +333,7 @@ msgstr ""
 msgid "Your comment is awaiting moderation."
 msgstr ""
 
-#: core/customizer.php:246
+#: core/customizer.php:307
 msgid "Your copyright text here !"
 msgstr ""
 
@@ -301,6 +341,6 @@ msgstr ""
 msgid "Youtube"
 msgstr ""
 
-#: core/customizer.php:169
+#: core/customizer.php:230
 msgid "Youtube URL"
 msgstr ""

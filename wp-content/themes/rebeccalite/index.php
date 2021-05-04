@@ -2,7 +2,11 @@
 get_header();
 $col        = is_active_sidebar( 'sidebar' ) ? 'col-lg-9' : 'col-lg-12';
 $image_size = is_active_sidebar( 'sidebar' ) ? 'rebeccalite-post-small-w-sidebar' : 'rebeccalite-post-small';
+
+get_template_part( 'template-parts/promo-boxes' );
+
 ?>
+
 <div class="row">
     <div class="<?php echo esc_attr( $col ); ?>">
     <?php

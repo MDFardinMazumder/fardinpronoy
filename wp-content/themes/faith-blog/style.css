@@ -4,7 +4,7 @@ Theme URI: https://theimran.com/themes/wordpress-free-themes/faith-blog-wordpres
 Author: Theimran WordPress Shop
 Author URI: https://www.ministryvoice.com
 Description: Faith Blog is a feature-rich WordPress theme designed to be used as a blog for churches, non-profits, faith-based bloggers, or lifestyle blogs of any type. Whether writing about spirituality, home decor, fitness, or any other interest, you'll find Faith Blog is perfect for highlighting your content and providing a smooth modern, and easy to use experience.
-Version: 1.1.2
+Version: 1.1.3
 Requires at least: 5.0
 Tested up to: 5.7.1
 Requires PHP: 5.2.4
@@ -12265,4 +12265,70 @@ section.featured-slider-area{
     justify-content: center;
 }
 
-/*# sourceMappingURL=style.css.map */
+/*Events Calendar*/
+
+.tribe-common .tribe-common-c-btn, .tribe-common a.tribe-common-c-btn{
+    background: #f39745;
+}
+
+.tribe-common .tribe-common-c-btn, .tribe-common a.tribe-common-c-btn:hover{
+    background: #242323;
+}
+.tribe-common--breakpoint-medium.tribe-common .tribe-common-h3{
+    font-size: 1.4rem;
+    text-transform: capitalize;
+}
+.tribe-common--breakpoint-medium.tribe-common .tribe-common-b3{
+    font-size: 1rem;
+    font-weight: 700;
+}
+.tribe-events .tribe-events-calendar-list__event-date-tag-datetime{
+    justify-content: center;
+    background: #f39745;
+    height: 100px;
+}
+.tribe-events-single p.tribe-events-back {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.tribe-events-single h1.tribe-events-single-event-title {
+    text-align: center;
+}
+
+.tribe-events-single .tribe-events-schedule.tribe-clearfix {
+    text-align: center;
+    justify-content: center;
+    margin-top: 0;
+}
+
+.tribe-events-single .tribe-events-schedule.tribe-clearfix h2 {
+    text-align: center;
+    width: auto;
+}
+
+.tribe-events-single p.tribe-events-back a {
+    color: #ffc50a;
+}
+
+.tribe-events-single .tribe-events-cal-links a {
+    background: #ffc50a;
+    text-align: center;
+    width: auto;
+    padding: 10px 30px !important;
+    color: #242323 !important;
+    transition: .4s;
+}
+.tribe-events-single .tribe-events-cal-links a:hover{
+    background: #242323;
+    color: #fff !important;
+}
+.tribe-events-single .tribe-events-meta-group a {
+    font-weight: 700;
+    color: #ffc50a;
+    text-decoration: underline;
+}
+.tribe-events-single .tribe-events-sub-nav{
+    padding-left: 0;
+    margin-left: 0;
+}

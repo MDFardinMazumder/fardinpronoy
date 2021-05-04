@@ -3,9 +3,9 @@
 Contributors: themeostrich
 Tags: two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, portfolio, blog
 Requires at least: 4.7
-Tested up to: 5.6
+Tested up to: 5.7
 Requires PHP: 5.6
-Stable tag: 1.0.7
+Stable tag: 1.0.8
 License: GNU General Public License v2 or later
 License URI: LICENSE
 
@@ -75,6 +75,9 @@ https://stocksnap.io/photo/woman-portrait-J2PTEFNZTE
 https://stocksnap.io/photo/woman-guitar-RM4PDN76FM
 
 == Changelog ==
+
+= 1.0.8 - Mar 21 2021 =
+* added infinite scroll
 
 = 1.0.7 - Mar 18 2021 =
 * added demo data link

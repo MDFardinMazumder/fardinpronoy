@@ -6,10 +6,10 @@ Author URI: https://az-theme.net
 Author: AZ-Theme
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Version: 1.6
+Version: 1.7
 Text domain: rebeccalite
 Tags: blog, e-commerce, portfolio
-Tested up to: 5.7
+Tested up to: 5.7.1
 Requires PHP: 7.0
 */
 :root{
@@ -464,6 +464,33 @@ a img.aligncenter {
 .site-branding .site-description {
 	margin: 0;
 	color: var(--meta-color);
+}
+/** Promo Boxes --------------------------------------------------------------------------- */
+.rebeccalite-promo-boxes .promo-box-item {
+	min-height: 250px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-bottom: 50px;
+}
+.rebeccalite-promo-boxes .promo-box-item a {
+	background: rgba(255,255,255,0.9);
+	display: inline-block;
+	padding: 12px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-family: var(--heading-fonts);
+	font-size: 12px;
+	min-width: 50%;
+	text-align: center;
+	color: var(--primary-color);
+}
+.rebeccalite-promo-boxes .promo-box-item a:hover {
+	background: var(--accent-color);
+	color: #fff;
 }
 /* --------------------------------------------- Page ------------------------------------- */
 .az-page-thumbnail {

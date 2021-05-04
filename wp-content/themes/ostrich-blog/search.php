@@ -36,7 +36,7 @@ get_header(); ?>
     	    		$archive_sidebar = get_theme_mod( 'ostrich_blog_archive_sidebar', 'right' ); 
     	    		$col = ( 'no' === $archive_sidebar ) ? 3 : 2;
     	        	?>
-                    <div class="archive-blog-wrapper list-layout clear">
+                    <div id="ostrich-blog-infinite-scroll" class="archive-blog-wrapper list-layout clear">
 						<?php
 						/* Start the Loop */
 						if ( have_posts() ) :

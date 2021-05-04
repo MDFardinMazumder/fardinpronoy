@@ -46,6 +46,9 @@ https://stocksnap.io/photo/KIMNXEYKOM
 
 
 === Changelog ===
+= 1.7 =
+* Released: May 4, 2021
+- New : 3 Useful Promo Boxes, Promo Boxes are customizable boxes of content that include an image, title, & hyperlink of your choosing. They're perfect as a Call-To-Action or a visual menu of sorts. 
 
 = 1.6 =
 * Released: April 23, 2021

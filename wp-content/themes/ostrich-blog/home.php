@@ -45,7 +45,7 @@ get_header(); ?>
 	        	$sticky_posts = get_option( 'sticky_posts' );  
 	        	if ( ! empty( $sticky_posts ) ) :
 	        	?>
-                    <div class="archive-blog-wrapper list-layout clear">
+                    <div id="ostrich-blog-infinite-scroll" class="archive-blog-wrapper list-layout clear">
     	        		<?php  
     						$sticky_query = new WP_Query( array(
     							'post__in'  => $sticky_posts,

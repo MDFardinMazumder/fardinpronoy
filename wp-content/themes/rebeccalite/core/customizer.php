@@ -105,13 +105,74 @@ function rebeccalite_theme_customizer( $wp_customize ) {
 			)
 		)
 	);
+    
+    /**
+     * Promo Boxes
+     */
+    $wp_customize->add_panel( 'rebeccalite_promo_boxes_panel', array(
+        'title'         => __( 'Promo Boxes', 'rebeccalite' ),
+        'priority'      => 30
+    ) );
+
+    $wp_customize->add_section( 'rebeccalite_section_promo_boxes_settings', array(
+        'title' => __( 'Settings', 'rebeccalite' ),
+        'panel' => 'rebeccalite_promo_boxes_panel'
+    ) );
+
+    $wp_customize->add_setting( 'rebeccalite_promo_boxes_show', array(
+        'default'           => false,        
+        'sanitize_callback' => 'rebeccalite_sanitize_checkbox'
+    ) );
+
+    $wp_customize->add_control( new WP_Customize_Control( $wp_customize, 'rebeccalite_promo_boxes_show', array(
+	   'label'     => __( 'Show ?', 'rebeccalite' ),
+       'type'      => 'checkbox',
+	   'section'   => 'rebeccalite_section_promo_boxes_settings'
+	)));
+
+    for ( $i = 1; $i <= 3; $i ++ ) {
+        $wp_customize->add_section( "rebeccalite_section_promo_box_{$i}", array(
+            'title' => __( 'Promo Box', 'rebeccalite' ) . " {$i}",
+            'panel' => 'rebeccalite_promo_boxes_panel'
+        ) );
+
+        $wp_customize->add_setting( "rebeccalite_promo_box_title_{$i}", array(
+            'default' => __( 'Box', 'rebeccalite' ) . " {$i}",
+            'sanitize_callback' => 'sanitize_text_field'
+        ) );
+        
+        $wp_customize->add_setting( "rebeccalite_promo_box_link_{$i}", array(
+            'default' => '',
+            'sanitize_callback' => 'esc_url_raw'
+        ) );
+        
+        $wp_customize->add_setting( "rebeccalite_promo_box_image_{$i}", array(
+            'default' => '',
+            'sanitize_callback' => 'esc_url_raw'
+        ) );
+        
+        $wp_customize->add_control( new WP_Customize_Control( $wp_customize, "rebeccalite_promo_box_title_{$i}", array(
+    	   'label'     => __( 'Title', 'rebeccalite' ),
+    	   'section'   => "rebeccalite_section_promo_box_{$i}"
+    	)));
+        
+        $wp_customize->add_control( new WP_Customize_Control( $wp_customize, "rebeccalite_promo_box_link_{$i}", array(
+    	   'label'     => __( 'Link(URL)', 'rebeccalite' ),
+    	   'section'   => "rebeccalite_section_promo_box_{$i}"
+    	)));
+        
+        $wp_customize->add_control( new WP_Customize_Image_Control( $wp_customize, "rebeccalite_promo_box_image_{$i}", array(
+    	   'label'     => __( 'Background Image', 'rebeccalite' ),
+    	   'section'   => "rebeccalite_section_promo_box_{$i}"
+    	)));
+    }
 
     /**
      * Social Media settings
      */
     $wp_customize->add_section( 'rebeccalite_section_social_media', array( 'title' => __( 'Social Media Settings', 'rebeccalite' ) ) );
 
-    $wp_customize->add_setting( 'rebeccalite_facebook', array( 'default'=> '', 'sanitize_callback' => 'esc_url_raw' ) );
+    $wp_customize->add_setting( 'rebeccalite_facebook', array( 'default' => '', 'sanitize_callback' => 'esc_url_raw' ) );
     $wp_customize->add_setting( 'rebeccalite_twitter', array( 'default' => '', 'sanitize_callback' => 'esc_url_raw' ) );
     $wp_customize->add_setting( 'rebeccalite_instagram', array( 'default' => '', 'sanitize_callback' => 'esc_url_raw' ) );
     $wp_customize->add_setting( 'rebeccalite_pinterest', array( 'default' => '', 'sanitize_callback' => 'esc_url_raw' ) );
